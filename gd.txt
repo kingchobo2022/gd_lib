@@ -1,0 +1,5 @@
+// PHP와 GD 라이브러리를 이용한 이미지 카운터 프로그램 만들기
+
+1. php.ini  GD 라이브러리를 활성화
+2. apache restart ( stop and start)
+3. phpinfo();  GD 동작 확인
